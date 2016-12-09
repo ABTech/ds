@@ -14,3 +14,8 @@ table, th, td {
 td, th{
 	padding: 5px;
 }
+
+#dances {
+  width: 530px;
+  height: 430px;
+}
